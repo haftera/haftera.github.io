@@ -1579,12 +1579,12 @@
 		-ms-transition: border-color 0.2s ease-in-out, color 0.2s ease-in-out;
 		transition: border-color 0.2s ease-in-out, color 0.2s ease-in-out;
 		border-bottom: dotted 1px;
-		color: #e44c65;
+		color: #66CCFF;
 		text-decoration: none;
 	}
 
 		a:hover {
-			color: #e44c65 !important;
+			color: #66CCFF !important;
 			border-bottom-color: transparent;
 		}
 
@@ -2133,7 +2133,7 @@
 	}
 
 		header.major:after {
-			background: #e44c65;
+			background: #66CCFF;
 			content: '';
 			display: inline-block;
 			height: 0.2em;
@@ -2196,7 +2196,7 @@
 		input[type="email"]:focus,
 		select:focus,
 		textarea:focus {
-			border-color: #e44c65;
+			border-color: #66CCFF;
 		}
 
 	.select-wrapper {
@@ -2313,7 +2313,7 @@
 
 		input[type="checkbox"]:focus + label:before,
 		input[type="radio"]:focus + label:before {
-			border-color: #e44c65;
+			border-color: #66CCFF;
 		}
 
 	input[type="checkbox"] + label:before {
@@ -2734,8 +2734,8 @@
 		input[type="button"]:active,
 		.button:hover,
 		.button:active {
-			box-shadow: inset 0 0 0 1px #e44c65;
-			color: #e44c65 !important;
+			box-shadow: inset 0 0 0 1px #66CCFF;
+			color: #66CCFF !important;
 		}
 
 		input[type="submit"]:active,
@@ -2779,23 +2779,23 @@
 		input[type="reset"].special,
 		input[type="button"].special,
 		.button.special {
-			background-color: #e44c65;
+			background-color: #66CCFF;
 			box-shadow: none;
-			color: #ffffff !important;
+			color: #000000 !important;
 		}
 
 			input[type="submit"].special:hover,
 			input[type="reset"].special:hover,
 			input[type="button"].special:hover,
 			.button.special:hover {
-				background-color: #e76278;
+				background-color: #FF9933;
 			}
 
 			input[type="submit"].special:active,
 			input[type="reset"].special:active,
 			input[type="button"].special:active,
 			.button.special:active {
-				background-color: #e13652;
+				background-color: #FFFFFF;
 			}
 
 		input[type="submit"].disabled, input[type="submit"]:disabled,
@@ -3020,7 +3020,7 @@
 		}
 
 		.spotlight.style1 .content {
-			border-color: #e44c65;
+			border-color: #66CCFF;
 		}
 
 		.spotlight.style2 .content {
@@ -3082,7 +3082,7 @@
 	}
 
 		.wrapper.style2 {
-			background: #e44c65;
+			background: #66CCFF;
 		}
 
 			.wrapper.style2 input[type="text"]:focus,
@@ -3117,7 +3117,7 @@
 			.wrapper.style2 input[type="button"].special,
 			.wrapper.style2 .button.special {
 				background-color: #ffffff;
-				color: #e44c65 !important;
+				color: #66CCFF !important;
 			}
 
 				.wrapper.style2 input[type="submit"].special:hover, .wrapper.style2 input[type="submit"].special:active,
@@ -3221,7 +3221,7 @@
 			}
 
 			.dropotron > li.active > a, .dropotron > li.active > span {
-				color: #e44c65;
+				color: #66CCFF;
 			}
 
 		.dropotron.level-0 {
@@ -3311,7 +3311,7 @@
 						}
 
 					#header nav ul li.active > a, #header nav ul li.active > span {
-						color: #e44c65;
+						color: #66CCFF;
 					}
 
 					#header nav ul li > ul {
@@ -3790,7 +3790,7 @@
 					}
 
 					#titleBar .toggle:before {
-						background: #e44c65;
+						background: #66CCFF;
 						color: rgba(255, 255, 255, 0.5);
 						content: '\f0c9';
 						display: block;
