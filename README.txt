@@ -1,3 +1,9 @@
+ABOUT PROJECT
+
+Testamentera Nu is a project that aims at making safer, faster and cheaper handling of testaments and wills. We are currently working on building a service that will help you create, maintain and store your will electronically. This webpage is made to see how many people in Sweden are interested in using such a service. 
+
+ABOUT PAGE
+
 Landed by HTML5 UP
 html5up.net | @n33co
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
