@@ -1,3 +1,0 @@
-# testamentera
-# testamentera
-# testamentera
