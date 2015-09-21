@@ -6,7 +6,7 @@ ABOUT PAGE
 
 Landed by HTML5 UP
 html5up.net | @n33co
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+Free for personal and commercial use under the CC-by 3.0 license (https://creativecommons.org/licenses/by/3.0)
 
 
 A dark, slick, modern, responsive, adjective-drenched design built around an extremely
